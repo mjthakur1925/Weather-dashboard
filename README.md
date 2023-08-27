@@ -30,6 +30,8 @@ The Weather Dashboard is a web application that provides users with real-time we
 ## Technologies
 
 - HTML, CSS, JavaScript for front-end development.
+- Azure static Service for hosting the web application.
+- Azure storaze
 - ![Screenshot (462)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/515ccfff-c104-44a5-a356-dbe70ec479f1)
 ## Getting Started
 

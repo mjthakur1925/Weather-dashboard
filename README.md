@@ -1,14 +1,16 @@
 # Weather-dashboard
 # Weather Dashboard Project
 
-The Weather Dashboard is a web application that provides users with real-time weather information in a customizable and user-friendly format. It aggregates data from reliable sources and offers a range of features to help users plan their activities based on accurate weather forecasts and conditions.![Screenshot (462)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/ca811756-6077-4e66-988e-f77cab72f720)
+The Weather Dashboard is a web application that provides users with real-time weather information in a customizable and user-friendly format. It aggregates data from reliable sources and offers a range of features to help users plan their activities based on accurate weather forecasts and conditions.
 
-
+![Screenshot (463)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/ac29df4c-ff18-4b86-9a39-82804ce71bc8)
 
 ## Table of Contents
 
 - [Features](#features)
-- [Technologies](#technologies)
+- [Technologies](#technologies)![Screenshot (464)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/71491be7-ba2e-4ab1-8364-34afc97985f1)
+
+
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)

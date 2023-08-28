@@ -9,7 +9,7 @@ The Weather Dashboard is a web application that provides users with real-time we
 
 - [Features](#features)
 - [Technologies](#technologies)![Screenshot (464)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/71491be7-ba2e-4ab1-8364-34afc97985f1)
-
+ ![Screenshot (462)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/515ccfff-c104-44a5-a356-dbe70ec479f1)
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -33,7 +33,10 @@ The Weather Dashboard is a web application that provides users with real-time we
 - Azure static Service for hosting the web application.
 - Azure storaze
 - link: https://weatherdashboard.z13.web.core.windows.net/
-- ![Screenshot (462)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/515ccfff-c104-44a5-a356-dbe70ec479f1)
+- ![Screenshot (465)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/c2f99c22-3aca-42c4-885a-2491352d9feb)
+![Screenshot (466)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/443985d7-7aef-4c56-bd6b-20ff592b9b40)
+![Screenshot (467)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/1304546d-1ce7-4a49-a400-582b27a19eb2)
+
 ## Getting Started
 
 1. Clone this repository to your local machine.

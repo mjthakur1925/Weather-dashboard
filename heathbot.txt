@@ -1,0 +1,1 @@
+<iframe src='https://webchat.botframework.com/embed/weatherdashboard-1ubamdq?s=Pmwq8bo1BUQ.9efGCjr94CmWmvE2_Uh0KYwHKwdFBDc93mT6vsHpeJc'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>

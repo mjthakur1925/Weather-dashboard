@@ -7,7 +7,8 @@ The Weather Dashboard is a web application that provides users with real-time we
 
 ## Table of Contents
 
-- [Features](#features)
+-
+[Features](#features)
 - [Technologies](#technologies)![Screenshot (464)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/71491be7-ba2e-4ab1-8364-34afc97985f1)
  ![Screenshot (462)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/515ccfff-c104-44a5-a356-dbe70ec479f1)
 
@@ -36,8 +37,12 @@ The Weather Dashboard is a web application that provides users with real-time we
 - ![Screenshot (465)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/c2f99c22-3aca-42c4-885a-2491352d9feb)
 ![Screenshot (466)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/443985d7-7aef-4c56-bd6b-20ff592b9b40)
 ![Screenshot (467)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/1304546d-1ce7-4a49-a400-582b27a19eb2)
-
+azure health bot
+- ![Screenshot (470)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/0b4559ae-61f9-4c5d-b5cf-eba9a7e4a899)
+ ![Screenshot (471)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/f1474e6f-ae3a-4ff5-bf7b-e4262d46a047)
+![Screenshot (472)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/861a9940-b24f-4ffc-b625-100e04304398)
 ## Getting Started
+
 
 1. Clone this repository to your local machine.
 2. Open the project folder in your preferred code editor.

@@ -40,7 +40,7 @@ The Weather Dashboard is a web application that provides users with real-time we
 azure health bot
 - ![Screenshot (470)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/0b4559ae-61f9-4c5d-b5cf-eba9a7e4a899)
  ![Screenshot (471)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/f1474e6f-ae3a-4ff5-bf7b-e4262d46a047)
-![Screenshot (472)](https://github.com/mjthakur1925/Weather-dashboard/assets/114571796/861a9940-b24f-4ffc-b625-100e04304398)
+![Screenshot (472)]()
 ## Getting Started
 
 
